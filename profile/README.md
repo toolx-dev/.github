@@ -34,7 +34,7 @@ Specializing in SVG manipulation and optimization, with SVGO library's power.
 Provides efficient image compression and optimization.
 
 ## Demo
-[![Edit ToolX - Demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/toolx-demo-tq53vt?file=%2Findex.js&embed=1)
+[![Edit ToolX - Basic demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/toolx-basic-demo-xq2rg3?embed=1&file=%2Findex.js)
 
 ## Quick CLI Usage
 
