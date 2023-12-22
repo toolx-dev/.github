@@ -30,6 +30,8 @@ Adept at removing selected files, enhancing workflow efficiency.
 Employs the sharp library for sophisticated and effective image transformation tasks.
 - 🖼️ [ToolSvg](https://github.com/toolx-dev/toolx/tree/main/packages/svg) - [npm](https://www.npmjs.com/package/@toolx/svg)
 Specializing in SVG manipulation and optimization, with SVGO library's power.
+- 🗜️ [ToolImagemin](https://github.com/toolx-dev/toolx/tree/main/packages/imagemin) - [npm](https://www.npmjs.com/package/@toolx/imagemin)
+Provides efficient image compression and optimization.
 
 
 ## Quick CLI Usage
